@@ -12,6 +12,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.springframework.web.servlet.ModelAndView;
 
+import org.junit.Before;
 
 public class WhenCreatingANewGame {
 
